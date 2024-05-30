@@ -1,0 +1,2 @@
+# admin.chinesetest.cn
+chinese
